@@ -1,0 +1,1 @@
+This project demonstrates how to set up a kubernetes ingress controller on a local kubernetes cluster to access a service that exposes a local flask server. See this [post](https://telesens.co/2021/05/14/accessing-a-custom-flask-microservice-from-a-kubernetes-ingress-controller/) for details. 
